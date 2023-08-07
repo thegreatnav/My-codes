@@ -1,0 +1,333 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D0922440-4A15-4189-B2E1-C7319EC61DB6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WeConnect</RootNamespace>
+    <AssemblyName>WeConnect</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x64</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Oracle.DataAccess, Version=4.122.19.1, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=AMD64" />
+    <Reference Include="Oracle.ManagedDataAccess, Version=4.122.19.1, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.DirectoryServices.Protocols" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Chats.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Chats.Designer.cs">
+      <DependentUpon>Chats.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet_Follower.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet_Follower.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet_followingtableonly.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet_followingtableonly.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="FollowersFollowing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FollowersFollowing.Designer.cs">
+      <DependentUpon>FollowersFollowing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.cs">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form4.Designer.cs">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form5.Designer.cs">
+      <DependentUpon>Form5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form6.Designer.cs">
+      <DependentUpon>Form6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Messaging.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Messaging.Designer.cs">
+      <DependentUpon>Messaging.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Myprofile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Myprofile.Designer.cs">
+      <DependentUpon>Myprofile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PostPhoto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PostPhoto.Designer.cs">
+      <DependentUpon>PostPhoto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ViewAllComments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewAllComments.Designer.cs">
+      <DependentUpon>ViewAllComments.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewAllFollowers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewAllFollowers.Designer.cs">
+      <DependentUpon>ViewAllFollowers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewAllFollowing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewAllFollowing.Designer.cs">
+      <DependentUpon>ViewAllFollowing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewAllLikes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewAllLikes.Designer.cs">
+      <DependentUpon>ViewAllLikes.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Chats.resx">
+      <DependentUpon>Chats.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FollowersFollowing.resx">
+      <DependentUpon>FollowersFollowing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form4.resx">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form5.resx">
+      <DependentUpon>Form5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form6.resx">
+      <DependentUpon>Form6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Messaging.resx">
+      <DependentUpon>Messaging.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Myprofile.resx">
+      <DependentUpon>Myprofile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PostPhoto.resx">
+      <DependentUpon>PostPhoto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="ViewAllComments.resx">
+      <DependentUpon>ViewAllComments.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewAllFollowers.resx">
+      <DependentUpon>ViewAllFollowers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewAllFollowing.resx">
+      <DependentUpon>ViewAllFollowing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewAllLikes.resx">
+      <DependentUpon>ViewAllLikes.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet3.xsc">
+      <DependentUpon>DataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet3.xss">
+      <DependentUpon>DataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet_Follower.xsc">
+      <DependentUpon>DataSet_Follower.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet_Follower.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet_Follower.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet_Follower.xss">
+      <DependentUpon>DataSet_Follower.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet_followingtableonly.xsc">
+      <DependentUpon>DataSet_followingtableonly.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet_followingtableonly.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet_followingtableonly.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet_followingtableonly.xss">
+      <DependentUpon>DataSet_followingtableonly.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Food.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dance.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OIP %282%29.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Glacier-Desktop-Wallpaper-by-Cole-Buckovich-6-scaled.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OIP1.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zy7db3suv1u41.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\abstract-minimalism-hd-4k_1539370820.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\abstract-minimalism-hd-4k_15393708201.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\abstract-minimalism-hd-4k_15393708202.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\abstract-minimalism-hd-4k_15393708203.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WeConnect.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1000_F_301741517_3bvFxpxY3I74BrSFJT86Cqzz6p8cEBJ7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\240_F_351278880_pZmVsOpAJL5zxht4nhoD07gsPsZyRLk7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1000_F_308432496_465I1Y7nn4DGmHaAXkWcUfiO0qqoIJZC.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f56d620b893deb164193452d90313e4a.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\downarrow.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

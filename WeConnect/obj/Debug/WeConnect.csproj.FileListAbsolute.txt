@@ -1,0 +1,96 @@
+C:\Users\paava\OneDrive\Desktop\Year 2\WeConnect\WeConnect\bin\Debug\WeConnect.exe.config
+C:\Users\paava\OneDrive\Desktop\Year 2\WeConnect\WeConnect\bin\Debug\WeConnect.exe
+C:\Users\paava\OneDrive\Desktop\Year 2\WeConnect\WeConnect\bin\Debug\WeConnect.pdb
+C:\Users\paava\OneDrive\Desktop\Year 2\WeConnect\WeConnect\obj\Debug\WeConnect.csproj.AssemblyReference.cache
+C:\Users\paava\OneDrive\Desktop\Year 2\WeConnect\WeConnect\obj\Debug\WeConnect.csproj.SuggestedBindingRedirects.cache
+C:\Users\paava\OneDrive\Desktop\Year 2\WeConnect\WeConnect\obj\Debug\WeConnect.Properties.Resources.resources
+C:\Users\paava\OneDrive\Desktop\Year 2\WeConnect\WeConnect\obj\Debug\WeConnect.csproj.GenerateResource.cache
+C:\Users\paava\OneDrive\Desktop\Year 2\WeConnect\WeConnect\obj\Debug\WeConnect.csproj.CoreCompileInputs.cache
+C:\Users\paava\OneDrive\Desktop\Year 2\WeConnect\WeConnect\obj\Debug\WeConnect.exe
+C:\Users\paava\OneDrive\Desktop\Year 2\WeConnect\WeConnect\obj\Debug\WeConnect.pdb
+C:\Users\paava\OneDrive\Desktop\Year 2\WeConnect\WeConnect\obj\Debug\WeConnect.Form1.resources
+C:\Users\paava\OneDrive\Desktop\Year 2\WeConnect\WeConnect\bin\Debug\Oracle.DataAccess.dll
+C:\Users\paava\OneDrive\Desktop\Year 2\WeConnect\WeConnect\obj\Debug\WeConnect.csproj.CopyComplete
+C:\Users\paava\OneDrive\Desktop\Year 2\WeConnect\WeConnect\obj\Debug\WeConnect.Form2.resources
+C:\Users\paava\OneDrive\Desktop\Year 2\WeConnect\WeConnect\obj\Debug\WeConnect.Form3.resources
+C:\Users\paava\OneDrive\Desktop\Year 2\WeConnect\WeConnect\obj\Debug\WeConnect.Form4.resources
+D:\WeConnect\WeConnect\bin\Debug\WeConnect.exe.config
+D:\WeConnect\WeConnect\bin\Debug\WeConnect.exe
+D:\WeConnect\WeConnect\bin\Debug\WeConnect.pdb
+D:\WeConnect\WeConnect\bin\Debug\Oracle.DataAccess.dll
+D:\WeConnect\WeConnect\obj\Debug\WeConnect.csprojAssemblyReference.cache
+D:\WeConnect\WeConnect\obj\Debug\WeConnect.Form1.resources
+D:\WeConnect\WeConnect\obj\Debug\WeConnect.Form2.resources
+D:\WeConnect\WeConnect\obj\Debug\WeConnect.Form3.resources
+D:\WeConnect\WeConnect\obj\Debug\WeConnect.Form4.resources
+D:\WeConnect\WeConnect\obj\Debug\WeConnect.Properties.Resources.resources
+D:\WeConnect\WeConnect\obj\Debug\WeConnect.csproj.GenerateResource.cache
+D:\WeConnect\WeConnect\obj\Debug\WeConnect.csproj.CoreCompileInputs.cache
+D:\WeConnect\WeConnect\obj\Debug\WeConnect.csproj.CopyComplete
+D:\WeConnect\WeConnect\obj\Debug\WeConnect.exe
+D:\WeConnect\WeConnect\obj\Debug\WeConnect.pdb
+C:\Users\paava\OneDrive\Desktop\WeConnect\WeConnect\bin\Debug\WeConnect.exe.config
+C:\Users\paava\OneDrive\Desktop\WeConnect\WeConnect\bin\Debug\WeConnect.exe
+C:\Users\paava\OneDrive\Desktop\WeConnect\WeConnect\bin\Debug\WeConnect.pdb
+C:\Users\paava\OneDrive\Desktop\WeConnect\WeConnect\bin\Debug\Oracle.DataAccess.dll
+C:\Users\paava\OneDrive\Desktop\WeConnect\WeConnect\obj\Debug\WeConnect.csproj.AssemblyReference.cache
+C:\Users\paava\OneDrive\Desktop\WeConnect\WeConnect\obj\Debug\WeConnect.csproj.SuggestedBindingRedirects.cache
+C:\Users\paava\OneDrive\Desktop\WeConnect\WeConnect\obj\Debug\WeConnect.Form1.resources
+C:\Users\paava\OneDrive\Desktop\WeConnect\WeConnect\obj\Debug\WeConnect.Form2.resources
+C:\Users\paava\OneDrive\Desktop\WeConnect\WeConnect\obj\Debug\WeConnect.Form3.resources
+C:\Users\paava\OneDrive\Desktop\WeConnect\WeConnect\obj\Debug\WeConnect.Form4.resources
+C:\Users\paava\OneDrive\Desktop\WeConnect\WeConnect\obj\Debug\WeConnect.Properties.Resources.resources
+C:\Users\paava\OneDrive\Desktop\WeConnect\WeConnect\obj\Debug\WeConnect.csproj.GenerateResource.cache
+C:\Users\paava\OneDrive\Desktop\WeConnect\WeConnect\obj\Debug\WeConnect.csproj.CoreCompileInputs.cache
+C:\Users\paava\OneDrive\Desktop\WeConnect\WeConnect\obj\Debug\WeConnect.csproj.CopyComplete
+C:\Users\paava\OneDrive\Desktop\WeConnect\WeConnect\obj\Debug\WeConnect.exe
+C:\Users\paava\OneDrive\Desktop\WeConnect\WeConnect\obj\Debug\WeConnect.pdb
+C:\Users\paava\OneDrive\Desktop\WeConnect\WeConnect\obj\Debug\WeConnect.Form5.resources
+C:\Users\paava\OneDrive\Desktop\WeConnecT\WeConnect\obj\Debug\WeConnect.Form6.resources
+C:\Users\paava\OneDrive\Desktop\WeConnecT\WeConnect\obj\Debug\WeConnect.Form7.resources
+C:\Users\91949\Downloads\WeConnect\WeConnect\WeConnect\bin\Debug\WeConnect.exe.config
+C:\Users\91949\Downloads\WeConnect\WeConnect\WeConnect\bin\Debug\WeConnect.exe
+C:\Users\91949\Downloads\WeConnect\WeConnect\WeConnect\bin\Debug\WeConnect.pdb
+C:\Users\91949\Downloads\WeConnect\WeConnect\WeConnect\bin\Debug\Oracle.DataAccess.dll
+C:\Users\91949\Downloads\WeConnect\WeConnect\WeConnect\obj\Debug\WeConnect.csprojAssemblyReference.cache
+C:\Users\91949\Downloads\WeConnect\WeConnect\WeConnect\obj\Debug\WeConnect.Form1.resources
+C:\Users\91949\Downloads\WeConnect\WeConnect\WeConnect\obj\Debug\WeConnect.Form2.resources
+C:\Users\91949\Downloads\WeConnect\WeConnect\WeConnect\obj\Debug\WeConnect.Form3.resources
+C:\Users\91949\Downloads\WeConnect\WeConnect\WeConnect\obj\Debug\WeConnect.Form4.resources
+C:\Users\91949\Downloads\WeConnect\WeConnect\WeConnect\obj\Debug\WeConnect.Form5.resources
+C:\Users\91949\Downloads\WeConnect\WeConnect\WeConnect\obj\Debug\WeConnect.Form6.resources
+C:\Users\91949\Downloads\WeConnect\WeConnect\WeConnect\obj\Debug\WeConnect.Form7.resources
+C:\Users\91949\Downloads\WeConnect\WeConnect\WeConnect\obj\Debug\WeConnect.Properties.Resources.resources
+C:\Users\91949\Downloads\WeConnect\WeConnect\WeConnect\obj\Debug\WeConnect.csproj.GenerateResource.cache
+C:\Users\91949\Downloads\WeConnect\WeConnect\WeConnect\obj\Debug\WeConnect.csproj.CoreCompileInputs.cache
+C:\Users\91949\Downloads\WeConnect\WeConnect\WeConnect\obj\Debug\WeConnect.csproj.CopyComplete
+C:\Users\91949\Downloads\WeConnect\WeConnect\WeConnect\obj\Debug\WeConnect.exe
+C:\Users\91949\Downloads\WeConnect\WeConnect\WeConnect\obj\Debug\WeConnect.pdb
+C:\Users\91949\Downloads\WeConnect\WeConnect\WeConnect\obj\Debug\WeConnect.PostPhoto.resources
+C:\Users\91949\Downloads\WeConnect\WeConnect\WeConnect\obj\Debug\WeConnect.MyProfile.resources
+C:\Users\91949\Documents\WeConnect\bin\Debug\WeConnect.exe.config
+C:\Users\91949\Documents\WeConnect\bin\Debug\WeConnect.exe
+C:\Users\91949\Documents\WeConnect\bin\Debug\WeConnect.pdb
+C:\Users\91949\Documents\WeConnect\bin\Debug\Oracle.DataAccess.dll
+C:\Users\91949\Documents\WeConnect\obj\Debug\WeConnect.csprojAssemblyReference.cache
+C:\Users\91949\Documents\WeConnect\obj\Debug\WeConnect.Form1.resources
+C:\Users\91949\Documents\WeConnect\obj\Debug\WeConnect.Form2.resources
+C:\Users\91949\Documents\WeConnect\obj\Debug\WeConnect.Form3.resources
+C:\Users\91949\Documents\WeConnect\obj\Debug\WeConnect.Form4.resources
+C:\Users\91949\Documents\WeConnect\obj\Debug\WeConnect.Form5.resources
+C:\Users\91949\Documents\WeConnect\obj\Debug\WeConnect.Form6.resources
+C:\Users\91949\Documents\WeConnect\obj\Debug\WeConnect.Myprofile.resources
+C:\Users\91949\Documents\WeConnect\obj\Debug\WeConnect.PostPhoto.resources
+C:\Users\91949\Documents\WeConnect\obj\Debug\WeConnect.Properties.Resources.resources
+C:\Users\91949\Documents\WeConnect\obj\Debug\WeConnect.csproj.GenerateResource.cache
+C:\Users\91949\Documents\WeConnect\obj\Debug\WeConnect.csproj.CoreCompileInputs.cache
+C:\Users\91949\Documents\WeConnect\obj\Debug\WeConnect.csproj.CopyComplete
+C:\Users\91949\Documents\WeConnect\obj\Debug\WeConnect.exe
+C:\Users\91949\Documents\WeConnect\obj\Debug\WeConnect.pdb
+C:\Users\91949\Documents\WeConnect\obj\Debug\WeConnect.FollowersFollowing.resources
+C:\Users\91949\Documents\WeConnect\obj\Debug\WeConnect.ViewAllFollowers.resources
+C:\Users\91949\Documents\WeConnect\obj\Debug\WeConnect.ViewAllFollowing.resources
+C:\Users\91949\Documents\WeConnect\obj\Debug\WeConnect.ViewAllComments.resources
+C:\Users\91949\Documents\WeConnect\obj\Debug\WeConnect.ViewAllLikes.resources
+C:\Users\91949\Documents\WeConnect\obj\Debug\WeConnect.Messaging.resources
+C:\Users\91949\Documents\WeConnect\obj\Debug\WeConnect.Chats.resources
